@@ -1,5 +1,7 @@
 # Reverse Line Reader in C
 
+The source this is based on [is here](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-reverse)
+
 This repository contains a C program designed to read from an input file or standard input and output the lines in reverse order. It is a powerful utility when you need to analyze data that is written in a line-by-line format, but in a manner where the most recent entries are at the bottom.
 
 The program can handle inputs of arbitrary size, thanks to dynamic memory allocation techniques. It also gracefully manages various error conditions, such as the failure to open a file, the input and output files being the same, or malloc/realloc failure.
