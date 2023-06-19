@@ -1,0 +1,5 @@
+This is the first line.
+Another line with important information.
+This is the third row.. It doesn't include the magic word.
+The fourth line also contains useful details.
+Lets end the text file with just some plain text that you'll never see.
